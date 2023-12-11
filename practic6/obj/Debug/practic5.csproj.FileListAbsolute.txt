@@ -1,0 +1,10 @@
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.csproj.AssemblyReference.cache
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.Form1.resources
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.Properties.Resources.resources
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.csproj.GenerateResource.cache
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.csproj.CoreCompileInputs.cache
+C:\Users\Дмитро\source\repos\practic5\practic5\bin\Debug\practic5.exe.config
+C:\Users\Дмитро\source\repos\practic5\practic5\bin\Debug\practic5.exe
+C:\Users\Дмитро\source\repos\practic5\practic5\bin\Debug\practic5.pdb
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.exe
+C:\Users\Дмитро\source\repos\practic5\practic5\obj\Debug\practic5.pdb
